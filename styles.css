@@ -1,0 +1,13 @@
+body { 
+    background: url('./MalfurionFullHearthstone.png');
+    background-size:     cover;  
+    background-repeat:   no-repeat;
+    background-position: center center; 
+    position: relative;
+}
+
+img, video {
+    position: absolute;
+    top: -175px;
+    left: -230px
+}
